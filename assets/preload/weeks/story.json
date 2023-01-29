@@ -1,0 +1,52 @@
+{
+	"storyName": "story",
+	"hideFreeplay": false,
+	"weekBackground": "none",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"jimmy",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spines",
+			"jimmy",
+			[
+				206,
+				229,
+				190
+			]
+		],
+		[
+			"Photosynthesis",
+			"jimmy",
+			[
+				206,
+				229,
+				190
+			]
+		],
+		[
+			"Xterminate",
+			"X",
+			[
+				204,
+				230,
+				234
+			]
+		],
+		[
+			"Xorcism",
+			"xodia",
+			[
+				251,
+				134,
+				224
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Story"
+}

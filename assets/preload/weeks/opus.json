@@ -1,0 +1,25 @@
+{
+	"storyName": "opus",
+	"hideFreeplay": false,
+	"weekBackground": "none",
+	"weekBefore": "story",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"albert",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Magnum Opus",
+			"albert",
+			[
+				155,
+				155,
+				155
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "opus"
+}

@@ -1,0 +1,25 @@
+{
+	"storyName": "bonus",
+	"hideFreeplay": false,
+	"weekBackground": "none",
+	"weekBefore": "story",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Hop And Seek",
+			"sprig",
+			[
+				174,
+				255,
+				156
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "bonus"
+}

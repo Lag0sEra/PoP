@@ -1,0 +1,34 @@
+{
+	"storyName": "progressive",
+	"hideFreeplay": false,
+	"weekBackground": "none",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spines-Progressive",
+			"jimmy",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Photosynthesis-Progressive",
+			"jimmy",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "progressive"
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "ffv",
+	"hideFreeplay": false,
+	"weekBackground": "none",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"our table",
+			"tomo",
+			[
+				126,
+				60,
+				235
+			]
+		],
+		[
+			"nightmare blob",
+			"tem",
+			[
+				46,
+				153,
+				215
+			]
+		],
+		[
+			"Akyuse",
+			"Kyu",
+			[
+				255,
+				247,
+				127
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "ffv"
+}
