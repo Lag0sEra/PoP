@@ -66,6 +66,9 @@ class GameOverSubstate extends MusicBeatSubstate
 
 		FlxTween.tween(FlxG.camera, {'zoom': 1}, 0.5);
 		PlayState.instance.setOnLuas('inGameOver', true);
+		
+		var songName = Paths.formatToSongPath(PlayState.SONG.song);
+		trace(songName);
 
 		Conductor.songPosition = 0;
 
@@ -103,7 +106,12 @@ class GameOverSubstate extends MusicBeatSubstate
 		gameOverText.alpha = 0;
 		add(gameOverText);
 		
-		tryAgain = new BGSprite('jimblo-menu/try-again', 0, 0, 0, 0);
+		tryAgain = new BGSprite('jimblo-menu/try-again/try-again', 0, 0, 0, 0);
+
+		switch (songName) {
+			case 'soul-link' | 'akyuse' | 'nightmare-blob' | 'our-table':
+				tryAgain = new BGSprite('jimblo-menu/try-again/try-again-' + songName, 0, 0, 0, 0);
+		}
 		tryAgain.setGraphicSize(FlxG.width, FlxG.height);
 		tryAgain.alpha = 0;
 		add(tryAgain);

@@ -96,6 +96,7 @@ class FreeplayState extends MusicBeatState
 		// WeekData.loadTheFirstEnabledMod();
 		for (i in 0...chosenFreeplay.length)
 		{
+			trace(chosenFreeplay);
 			var week:String = chosenFreeplay[i];
 			if ((week == "opus" && !PreFreeplayState.StoryDone) || (week == "bonus" && !PreFreeplayState.StoryDone2))
 				continue;

@@ -181,6 +181,7 @@ class DialogueBoxPsych extends FlxSpriteGroup
 	var offsetPos:Float = -600;
 
 	var textBoxTypes:Array<String> = ['normal', 'angry'];
+	var versionShit:FlxText;
 	
 	var curCharacter:String = "";
 	//var charPositionList:Array<String> = ['left', 'center', 'right'];
@@ -202,6 +203,11 @@ class DialogueBoxPsych extends FlxSpriteGroup
 
 		this.dialogueList = dialogueList;
 		spawnCharacters();
+
+		versionShit = new FlxText(15, FlxG.height - 24, 0, "Press ESC/Backspace to skip dialogue", 12);
+		versionShit.scrollFactor.set();
+		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		add(versionShit);
 
 		box = new FlxSprite(70, 370);
 		box.frames = Paths.getSparrowAtlas('speech_bubble');
@@ -302,6 +308,31 @@ class DialogueBoxPsych extends FlxSpriteGroup
 		if(!dialogueEnded) {
 			bgFade.alpha += 0.5 * elapsed;
 			if(bgFade.alpha > 0.5) bgFade.alpha = 0.5;
+
+			if(PlayerSettings.player1.controls.BACK){
+				
+				// Deletes the dialogue text
+				if(daText != null) {
+					// daText.killTheTimer();
+					daText.kill();
+					remove(daText);
+					daText.destroy();
+				}
+
+				// Sets the flag for ended dialogue
+				dialogueEnded = true;
+
+				versionShit.kill();
+				remove(versionShit);
+				versionShit.destroy();
+
+				box.animation.curAnim.reverse();
+				box.animation.curAnim.curFrame = box.animation.curAnim.frames.length - 1;
+				box.animation.curAnim.reverse();
+				updateBoxOffsets(box);
+				FlxG.sound.play(Paths.sound('dialogueClose'));
+				FlxG.sound.music.fadeOut(1, 0);
+			}
 
 			if(PlayerSettings.player1.controls.ACCEPT) {
 				if(!daText.finishedText) {

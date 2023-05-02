@@ -131,7 +131,7 @@ class PreFreeplayState extends MusicBeatState
 				switch (optionShit[curSelected])
 				{
 					case 'Story':
-						FreeplayState.chosenFreeplay = ["Week1", "Opus", "Bonus"];
+						FreeplayState.chosenFreeplay = ["story", "weekOpus", "bonus"];
 					case 'FFV':
 						FreeplayState.chosenFreeplay = [optionShit[curSelected].toLowerCase()];
 					case 'Progressive':

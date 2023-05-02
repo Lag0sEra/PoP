@@ -1,6 +1,7 @@
 {
 	"storyName": "ffv",
 	"hideFreeplay": false,
+	"difficulties": "Hard",
 	"weekBackground": "none",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,

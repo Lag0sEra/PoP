@@ -1,6 +1,7 @@
 {
 	"storyName": "bonus",
 	"hideFreeplay": false,
+	"difficulties": "Hard",
 	"weekBackground": "none",
 	"weekBefore": "story",
 	"startUnlocked": true,

@@ -1,7 +1,7 @@
 {
 	"storyName": "story",
 	"hideFreeplay": false,
-	"weekBackground": "none",
+	"weekBackground": "",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
 	"weekCharacters": [

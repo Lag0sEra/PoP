@@ -1,13 +1,14 @@
 {
 	"storyName": "opus",
 	"hideFreeplay": false,
-	"weekBackground": "none",
+	"difficulties": "Hard",
+	"weekBackground": "stage",
 	"weekBefore": "story",
 	"startUnlocked": false,
 	"weekCharacters": [
-		"albert",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
 	"songs": [
 		[
@@ -20,6 +21,6 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
+	"hideStoryMode": false,
 	"weekName": "opus"
 }

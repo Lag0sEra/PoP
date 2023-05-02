@@ -1,6 +1,7 @@
 {
 	"storyName": "progressive",
 	"hideFreeplay": false,
+	"difficulties": "Hard",
 	"weekBackground": "none",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,

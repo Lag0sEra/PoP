@@ -1,6 +1,6 @@
 tutorial
 story
-opus
+weekOpus
 bonus
 progressive
 ffv
