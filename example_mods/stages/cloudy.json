@@ -1,0 +1,9 @@
+{
+	"directory": "cactus",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [1020, 270],
+	"girlfriend": [380, 200],
+	"opponent": [100, 270]
+}

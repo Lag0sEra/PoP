@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OPbg.png">
+<SubTexture name="1" x="0" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="2" x="1290" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="3" x="2580" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="4_6" x="3870" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="5" x="0" y="734" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="7_8" x="1290" y="734" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="9.1" x="2580" y="734" width="1290" height="724" frameX="0" frameY="0" frameWidth="1290" frameHeight="724" />
+<SubTexture name="9.2" x="3870" y="734" width="1290" height="724" frameX="0" frameY="0" frameWidth="1290" frameHeight="724" />
+<SubTexture name="10" x="0" y="1468" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="11" x="1290" y="1468" width="1290" height="724" frameX="0" frameY="0" frameWidth="1290" frameHeight="724" />
+</TextureAtlas>

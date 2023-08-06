@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowd_left.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="left side0000" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0001" x="427" y="0" width="438" height="836" frameX="0" frameY="-29" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0002" x="427" y="0" width="438" height="836" frameX="0" frameY="-29" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0003" x="865" y="0" width="417" height="865" frameX="-11" frameY="0" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0004" x="865" y="0" width="417" height="865" frameX="-11" frameY="0" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0005" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0006" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0007" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0008" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0009" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0010" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0011" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0012" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0013" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0014" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0015" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0016" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0017" x="427" y="0" width="438" height="836" frameX="0" frameY="-29" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0018" x="427" y="0" width="438" height="836" frameX="0" frameY="-29" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0019" x="865" y="0" width="417" height="865" frameX="-11" frameY="0" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0020" x="865" y="0" width="417" height="865" frameX="-11" frameY="0" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0021" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0022" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0023" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0024" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0025" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0026" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0027" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0028" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+	<SubTexture name="left side0029" x="0" y="0" width="427" height="854" frameX="-6" frameY="-11" frameWidth="438" frameHeight="865"/>
+</TextureAtlas>
