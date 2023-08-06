@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Octo.png">
+<SubTexture name="Octo Stepped on a lego0000" x="3773" y="6962" width="1257" height="1344" frameX="-1" frameY="-4" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0001" x="7556" y="2696" width="1257" height="1345" frameX="-5" frameY="-3" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0002" x="6209" y="4116" width="1257" height="1348" frameX="0" frameY="0" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0003" x="1349" y="5582" width="1258" height="1348" frameX="-3" frameY="0" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0004" x="5030" y="6962" width="1256" height="1344" frameX="-1" frameY="-4" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0005" x="1258" y="6962" width="1258" height="1345" frameX="-5" frameY="-3" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0006" x="2607" y="5582" width="1257" height="1348" frameX="-1" frameY="0" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0007" x="3864" y="5582" width="1257" height="1348" frameX="-5" frameY="0" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0008" x="7556" y="4041" width="1257" height="1345" frameX="0" frameY="-3" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0009" x="6286" y="6962" width="1258" height="1344" frameX="-3" frameY="-4" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0010" x="7556" y="5386" width="1256" height="1345" frameX="-1" frameY="-3" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0011" x="5121" y="5582" width="1258" height="1348" frameX="-5" frameY="0" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0012" x="7556" y="0" width="1257" height="1348" frameX="-1" frameY="0" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0013" x="7544" y="6962" width="1257" height="1344" frameX="-5" frameY="-4" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0014" x="2516" y="6962" width="1257" height="1345" frameX="0" frameY="-3" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0015" x="0" y="6962" width="1258" height="1348" frameX="-3" frameY="0" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0016" x="7556" y="1348" width="1256" height="1348" frameX="-1" frameY="0" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Stepped on a lego0017" x="1258" y="6962" width="1258" height="1345" frameX="-5" frameY="-3" frameWidth="1263" frameHeight="1348" />
+<SubTexture name="Octo Sing down0000" x="0" y="9641" width="1314" height="1248" frameX="0" frameY="-17" frameWidth="1314" frameHeight="1265" />
+<SubTexture name="Octo Sing down0001" x="1314" y="9641" width="1314" height="1248" frameX="0" frameY="-17" frameWidth="1314" frameHeight="1265" />
+<SubTexture name="Octo Sing down0002" x="10110" y="0" width="1297" height="1259" frameX="-11" frameY="-6" frameWidth="1314" frameHeight="1265" />
+<SubTexture name="Octo Sing down0003" x="2593" y="8310" width="1294" height="1265" frameX="-12" frameY="0" frameWidth="1314" frameHeight="1265" />
+<SubTexture name="Octo Sing down0004" x="3887" y="8310" width="1294" height="1265" frameX="-12" frameY="0" frameWidth="1314" frameHeight="1265" />
+<SubTexture name="Octo Sing down0005" x="5181" y="8310" width="1294" height="1265" frameX="-12" frameY="0" frameWidth="1314" frameHeight="1265" />
+<SubTexture name="Octo Sing down0006" x="6475" y="8310" width="1294" height="1265" frameX="-12" frameY="0" frameWidth="1314" frameHeight="1265" />
+<SubTexture name="Octo Sing down0007" x="7769" y="8310" width="1294" height="1265" frameX="-12" frameY="0" frameWidth="1314" frameHeight="1265" />
+<SubTexture name="Octo Sing down0008" x="6475" y="8310" width="1294" height="1265" frameX="-12" frameY="0" frameWidth="1314" frameHeight="1265" />
+<SubTexture name="Octo Idle bop0000" x="6209" y="1380" width="1341" height="1368" frameX="0" frameY="-17" frameWidth="1353" frameHeight="1385" />
+<SubTexture name="Octo Idle bop0001" x="6209" y="2748" width="1342" height="1368" frameX="0" frameY="-17" frameWidth="1353" frameHeight="1385" />
+<SubTexture name="Octo Idle bop0002" x="6209" y="0" width="1347" height="1380" frameX="-3" frameY="-5" frameWidth="1353" frameHeight="1385" />
+<SubTexture name="Octo Idle bop0003" x="0" y="5582" width="1349" height="1380" frameX="-3" frameY="-5" frameWidth="1353" frameHeight="1385" />
+<SubTexture name="Octo Idle bop0004" x="2242" y="2802" width="1345" height="1385" frameX="-8" frameY="0" frameWidth="1353" frameHeight="1385" />
+<SubTexture name="Octo Idle bop0005" x="4865" y="0" width="1344" height="1385" frameX="-8" frameY="0" frameWidth="1353" frameHeight="1385" />
+<SubTexture name="Octo Idle bop0006" x="4865" y="1385" width="1342" height="1385" frameX="-8" frameY="0" frameWidth="1353" frameHeight="1385" />
+<SubTexture name="Octo Idle bop0007" x="4865" y="2770" width="1342" height="1385" frameX="-8" frameY="0" frameWidth="1353" frameHeight="1385" />
+<SubTexture name="Octo Idle bop0008" x="0" y="4198" width="1342" height="1384" frameX="-8" frameY="-1" frameWidth="1353" frameHeight="1385" />
+<SubTexture name="Octo Idle bop0009" x="1342" y="4198" width="1342" height="1384" frameX="-8" frameY="-1" frameWidth="1353" frameHeight="1385" />
+<SubTexture name="Octo Idle bop0010" x="0" y="4198" width="1342" height="1384" frameX="-8" frameY="-1" frameWidth="1353" frameHeight="1385" />
+<SubTexture name="Octo Left sing0000" x="0" y="0" width="1216" height="1406" frameX="0" frameY="0" frameWidth="1224" frameHeight="1406" />
+<SubTexture name="Octo Left sing0001" x="1216" y="0" width="1216" height="1406" frameX="0" frameY="0" frameWidth="1224" frameHeight="1406" />
+<SubTexture name="Octo Left sing0002" x="2432" y="0" width="1217" height="1400" frameX="-3" frameY="-6" frameWidth="1224" frameHeight="1406" />
+<SubTexture name="Octo Left sing0003" x="0" y="1406" width="1216" height="1396" frameX="-8" frameY="-10" frameWidth="1224" frameHeight="1406" />
+<SubTexture name="Octo Left sing0004" x="1216" y="1406" width="1216" height="1396" frameX="-8" frameY="-10" frameWidth="1224" frameHeight="1406" />
+<SubTexture name="Octo Left sing0005" x="2432" y="1406" width="1216" height="1396" frameX="-8" frameY="-10" frameWidth="1224" frameHeight="1406" />
+<SubTexture name="Octo Left sing0006" x="3649" y="0" width="1216" height="1396" frameX="-8" frameY="-10" frameWidth="1224" frameHeight="1406" />
+<SubTexture name="Octo Left sing0007" x="2432" y="1406" width="1216" height="1396" frameX="-8" frameY="-10" frameWidth="1224" frameHeight="1406" />
+<SubTexture name="Octo Right sing0000" x="8813" y="0" width="1297" height="1331" frameX="-16" frameY="0" frameWidth="1313" frameHeight="1331" />
+<SubTexture name="Octo Right sing0001" x="8813" y="1331" width="1297" height="1331" frameX="-16" frameY="0" frameWidth="1313" frameHeight="1331" />
+<SubTexture name="Octo Right sing0002" x="0" y="8310" width="1299" height="1331" frameX="-5" frameY="0" frameWidth="1313" frameHeight="1331" />
+<SubTexture name="Octo Right sing0003" x="8813" y="2662" width="1294" height="1330" frameX="0" frameY="-1" frameWidth="1313" frameHeight="1331" />
+<SubTexture name="Octo Right sing0004" x="8813" y="3992" width="1294" height="1330" frameX="0" frameY="-1" frameWidth="1313" frameHeight="1331" />
+<SubTexture name="Octo Right sing0005" x="8813" y="5322" width="1294" height="1330" frameX="0" frameY="-1" frameWidth="1313" frameHeight="1331" />
+<SubTexture name="Octo Right sing0006" x="8813" y="6652" width="1294" height="1330" frameX="0" frameY="-1" frameWidth="1313" frameHeight="1331" />
+<SubTexture name="Octo Right sing0007" x="1299" y="8310" width="1294" height="1330" frameX="0" frameY="-1" frameWidth="1313" frameHeight="1331" />
+<SubTexture name="Octo Right sing0008" x="8813" y="6652" width="1294" height="1330" frameX="0" frameY="-1" frameWidth="1313" frameHeight="1331" />
+<SubTexture name="Octo Up sing0000" x="3649" y="1396" width="1114" height="1396" frameX="-7" frameY="0" frameWidth="1128" frameHeight="1396" />
+<SubTexture name="Octo Up sing0001" x="0" y="2802" width="1114" height="1396" frameX="-7" frameY="0" frameWidth="1128" frameHeight="1396" />
+<SubTexture name="Octo Up sing0002" x="1114" y="2802" width="1128" height="1390" frameX="0" frameY="-6" frameWidth="1128" frameHeight="1396" />
+<SubTexture name="Octo Up sing0003" x="3587" y="2802" width="1128" height="1384" frameX="0" frameY="-12" frameWidth="1128" frameHeight="1396" />
+<SubTexture name="Octo Up sing0004" x="2684" y="4198" width="1128" height="1384" frameX="0" frameY="-12" frameWidth="1128" frameHeight="1396" />
+<SubTexture name="Octo Up sing0005" x="3812" y="4198" width="1128" height="1384" frameX="0" frameY="-12" frameWidth="1128" frameHeight="1396" />
+<SubTexture name="Octo Up sing0006" x="4940" y="4198" width="1128" height="1384" frameX="0" frameY="-12" frameWidth="1128" frameHeight="1396" />
+</TextureAtlas>

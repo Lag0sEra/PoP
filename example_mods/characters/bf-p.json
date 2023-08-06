@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bf-p Idle bop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bf-p Left sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bf-p Down Sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bf-p Up sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bf-p Right sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-7
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Bf-p Lmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-58
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Bf-p Dmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				36
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Bf-p Umiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-7
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Bf-p Rmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bf-p",
+	"position": [
+		40,
+		300
+	],
+	"healthicon": "bf-p",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-20,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

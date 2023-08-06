@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="temoo.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="temo down0000" x="0" y="0" width="455" height="458"/>
+	<SubTexture name="temo down0001" x="0" y="0" width="455" height="458"/>
+	<SubTexture name="temo down0002" x="455" y="0" width="455" height="458"/>
+	<SubTexture name="temo down0003" x="455" y="0" width="455" height="458"/>
+	<SubTexture name="temo left0000" x="910" y="0" width="482" height="496"/>
+	<SubTexture name="temo left0001" x="910" y="0" width="482" height="496"/>
+	<SubTexture name="temo left0002" x="1392" y="0" width="482" height="496"/>
+	<SubTexture name="temo left0003" x="1392" y="0" width="482" height="496"/>
+	<SubTexture name="temo right0000" x="0" y="496" width="437" height="522"/>
+	<SubTexture name="temo right0001" x="0" y="496" width="437" height="522"/>
+	<SubTexture name="temo right0002" x="437" y="496" width="437" height="522"/>
+	<SubTexture name="temo right0003" x="437" y="496" width="437" height="522"/>
+	<SubTexture name="temo up0000" x="874" y="496" width="359" height="586"/>
+	<SubTexture name="temo up0001" x="874" y="496" width="359" height="586"/>
+	<SubTexture name="temo up0002" x="1233" y="496" width="359" height="586"/>
+	<SubTexture name="temo up0003" x="1233" y="496" width="359" height="586"/>
+	<SubTexture name="tomo idle0000" x="1592" y="496" width="394" height="511"/>
+	<SubTexture name="tomo idle0001" x="1592" y="496" width="394" height="511"/>
+	<SubTexture name="tomo idle0002" x="0" y="1082" width="394" height="511"/>
+	<SubTexture name="tomo idle0003" x="0" y="1082" width="394" height="511"/>
+	<SubTexture name="tomo idle0004" x="394" y="1082" width="394" height="511"/>
+	<SubTexture name="tomo idle0005" x="394" y="1082" width="394" height="511"/>
+	<SubTexture name="tomo idle0006" x="788" y="1082" width="394" height="511"/>
+	<SubTexture name="tomo idle0007" x="788" y="1082" width="394" height="511"/>
+	<SubTexture name="tomo idle0008" x="1182" y="1082" width="394" height="511"/>
+	<SubTexture name="tomo idle0009" x="1182" y="1082" width="394" height="511"/>
+	<SubTexture name="tomo idle0010" x="1182" y="1082" width="394" height="511"/>
+	<SubTexture name="tomo idle0011" x="1182" y="1082" width="394" height="511"/>
+	<SubTexture name="tomo idle0012" x="1182" y="1082" width="394" height="511"/>
+	<SubTexture name="tomo idle0013" x="1182" y="1082" width="394" height="511"/>
+</TextureAtlas>

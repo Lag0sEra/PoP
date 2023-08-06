@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Jimmy Confident",
+			"idle_offsets": [
+				-60,
+				0
+			],
+			"idle_name": "Jimmy Confident",
+			"anim": "Confident",
+			"loop_offsets": [
+				-60,
+				0
+			]
+		},
+		{
+			"loop_name": "Jimmy Sad",
+			"idle_offsets": [
+				-155,
+				-8
+			],
+			"idle_name": "Jimmy Sad",
+			"anim": "Sad",
+			"loop_offsets": [
+				-155,
+				-8
+			]
+		},
+		{
+			"loop_name": "Jimmy Glad",
+			"idle_offsets": [
+				-100,
+				0
+			],
+			"idle_name": "Jimmy Glad",
+			"anim": "Glad",
+			"loop_offsets": [
+				-100,
+				0
+			]
+		},
+		{
+			"loop_name": "Jimmy Nervous",
+			"idle_offsets": [
+				-103,
+				0
+			],
+			"idle_name": "Jimmy Nervous",
+			"anim": "Nervous",
+			"loop_offsets": [
+				-103,
+				0
+			]
+		},
+		{
+			"loop_name": "Jimmy Angry",
+			"idle_offsets": [
+				-95,
+				0
+			],
+			"idle_name": "Jimmy Angry",
+			"anim": "Angry",
+			"loop_offsets": [
+				-95,
+				0
+			]
+		},
+		{
+			"loop_name": "Jimmy Serious",
+			"idle_offsets": [
+				-128,
+				0
+			],
+			"idle_name": "Jimmy Serious",
+			"anim": "Serious",
+			"loop_offsets": [
+				-128,
+				0
+			]
+		}
+	],
+	"image": "Jimmy"
+}

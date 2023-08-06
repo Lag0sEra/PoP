@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Xodia-throne.png"><SubTexture name="Xodia-throne DMiss0000" x="2683" y="5656" width="678" height="618" frameX="-2" frameY="-25" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne Down0000" x="3361" y="5656" width="680" height="618" frameX="0" frameY="-25" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne Down0001" x="4041" y="5656" width="676" height="617" frameX="-3" frameY="-26" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne Down0002" x="1337" y="5656" width="673" height="624" frameX="-4" frameY="-19" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne Down0003" x="0" y="5656" width="669" height="630" frameX="-7" frameY="-13" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne Down0004" x="5799" y="1275" width="667" height="634" frameX="-9" frameY="-9" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne Down0005" x="5799" y="638" width="667" height="637" frameX="-9" frameY="-6" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne Down0006" x="4540" y="4994" width="667" height="640" frameX="-9" frameY="-3" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne Down0007" x="3206" y="4994" width="667" height="641" frameX="-9" frameY="-2" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne Idle bop0000" x="4478" y="2031" width="629" height="666" frameX="0" frameY="-22" frameWidth="629" frameHeight="688" />
+<SubTexture name="Xodia-throne Idle bop0001" x="4478" y="2697" width="629" height="666" frameX="0" frameY="-22" frameWidth="629" frameHeight="688" />
+<SubTexture name="Xodia-throne Idle bop0002" x="0" y="4994" width="628" height="662" frameX="-1" frameY="-26" frameWidth="629" frameHeight="688" />
+<SubTexture name="Xodia-throne Idle bop0003" x="628" y="4994" width="628" height="662" frameX="-1" frameY="-26" frameWidth="629" frameHeight="688" />
+<SubTexture name="Xodia-throne Idle bop0004" x="4478" y="681" width="625" height="675" frameX="-4" frameY="-13" frameWidth="629" frameHeight="688" />
+<SubTexture name="Xodia-throne Idle bop0005" x="4478" y="1356" width="625" height="675" frameX="-4" frameY="-13" frameWidth="629" frameHeight="688" />
+<SubTexture name="Xodia-throne Idle bop0006" x="1972" y="2962" width="625" height="681" frameX="-4" frameY="-7" frameWidth="629" frameHeight="688" />
+<SubTexture name="Xodia-throne Idle bop0007" x="2597" y="2962" width="625" height="681" frameX="-4" frameY="-7" frameWidth="629" frameHeight="688" />
+<SubTexture name="Xodia-throne Idle bop0008" x="0" y="2962" width="625" height="685" frameX="-4" frameY="-3" frameWidth="629" frameHeight="688" />
+<SubTexture name="Xodia-throne Idle bop0009" x="3119" y="1383" width="625" height="688" frameX="-4" frameY="0" frameWidth="629" frameHeight="688" />
+<SubTexture name="Xodia-throne LMiss0000" x="1875" y="2233" width="688" height="692" frameX="-27" frameY="0" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne Left0000" x="3119" y="0" width="687" height="692" frameX="-28" frameY="0" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne Left0001" x="3119" y="692" width="678" height="691" frameX="-37" frameY="-1" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne Left0002" x="3119" y="2071" width="676" height="687" frameX="-39" frameY="-5" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne Left0003" x="625" y="2962" width="674" height="684" frameX="-41" frameY="-8" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne Left0004" x="1299" y="2962" width="673" height="682" frameX="-42" frameY="-10" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne Left0005" x="3806" y="0" width="672" height="681" frameX="-43" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne Left0006" x="3806" y="681" width="671" height="681" frameX="-44" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne Left0007" x="3806" y="1362" width="671" height="681" frameX="-44" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne Left0008" x="3806" y="2043" width="671" height="681" frameX="-44" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne Left0009" x="3806" y="2724" width="671" height="681" frameX="-44" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne RMiss0000" x="5181" y="3951" width="617" height="647" frameX="-5" frameY="-19" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne Right0000" x="1256" y="4994" width="617" height="647" frameX="-5" frameY="-19" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne Right0001" x="5181" y="3298" width="618" height="653" frameX="-3" frameY="-13" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne Right0002" x="5181" y="2643" width="617" height="655" frameX="-2" frameY="-11" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne Right0003" x="5181" y="1985" width="617" height="658" frameX="-1" frameY="-8" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne Right0004" x="5181" y="1325" width="618" height="660" frameX="0" frameY="-6" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne Right0005" x="5181" y="663" width="618" height="662" frameX="0" frameY="-4" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne Right0006" x="5181" y="0" width="618" height="663" frameX="0" frameY="-3" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne Right0007" x="3082" y="4328" width="618" height="664" frameX="0" frameY="-2" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne Right0008" x="3700" y="4328" width="618" height="664" frameX="0" frameY="-2" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne Right0009" x="4318" y="4328" width="618" height="664" frameX="0" frameY="-2" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne UMiss0000" x="1250" y="0" width="619" height="745" frameX="-6" frameY="-6" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne Up0000" x="0" y="751" width="619" height="745" frameX="-6" frameY="-6" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne Up0001" x="1244" y="751" width="622" height="740" frameX="-3" frameY="-11" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne Up0002" x="0" y="1496" width="625" height="737" frameX="0" frameY="-14" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne Up0003" x="625" y="1496" width="625" height="735" frameX="0" frameY="-16" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne Up0004" x="2494" y="0" width="625" height="733" frameX="0" frameY="-18" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne Up0005" x="2494" y="1465" width="625" height="731" frameX="0" frameY="-20" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne Up0006" x="0" y="2233" width="625" height="729" frameX="0" frameY="-22" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne Up0007" x="625" y="2233" width="625" height="729" frameX="0" frameY="-22" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne Up0008" x="1250" y="2233" width="625" height="729" frameX="0" frameY="-22" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne DMiss0001" x="2010" y="5656" width="673" height="621" frameX="-7" frameY="-22" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne DMiss0002" x="669" y="5656" width="668" height="625" frameX="-8" frameY="-18" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne DMiss0003" x="5799" y="1909" width="667" height="634" frameX="-9" frameY="-9" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne DMiss0004" x="5799" y="0" width="667" height="638" frameX="-9" frameY="-5" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne DMiss0005" x="3873" y="4994" width="667" height="641" frameX="-9" frameY="-2" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne DMiss0006" x="1873" y="4994" width="666" height="643" frameX="-10" frameY="0" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne DMiss0007" x="2539" y="4994" width="667" height="642" frameX="-9" frameY="-1" frameWidth="680" frameHeight="643" />
+<SubTexture name="Xodia-throne LMiss0001" x="0" y="3647" width="712" height="681" frameX="-3" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne LMiss0002" x="712" y="3647" width="708" height="681" frameX="-7" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne LMiss0003" x="1420" y="3647" width="706" height="681" frameX="-9" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne LMiss0004" x="2126" y="3647" width="705" height="681" frameX="-10" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne LMiss0005" x="2831" y="3647" width="704" height="681" frameX="-11" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne LMiss0006" x="3535" y="3647" width="703" height="681" frameX="-12" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne LMiss0007" x="4478" y="0" width="703" height="681" frameX="-12" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="Xodia-throne RMiss0001" x="4478" y="3363" width="614" height="666" frameX="-7" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne RMiss0002" x="1875" y="1496" width="615" height="666" frameX="-5" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne RMiss0003" x="0" y="4328" width="616" height="666" frameX="-4" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne RMiss0004" x="616" y="4328" width="615" height="666" frameX="-4" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne RMiss0005" x="1231" y="4328" width="616" height="666" frameX="-2" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne RMiss0006" x="1847" y="4328" width="617" height="666" frameX="-1" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne RMiss0007" x="2464" y="4328" width="618" height="666" frameX="0" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="Xodia-throne UMiss0001" x="0" y="0" width="625" height="751" frameX="0" frameY="0" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne UMiss0002" x="625" y="0" width="625" height="746" frameX="0" frameY="-5" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne UMiss0003" x="619" y="751" width="625" height="743" frameX="0" frameY="-8" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne UMiss0004" x="1869" y="0" width="625" height="740" frameX="0" frameY="-11" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne UMiss0005" x="1869" y="740" width="625" height="738" frameX="0" frameY="-13" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne UMiss0006" x="1250" y="1496" width="625" height="735" frameX="0" frameY="-16" frameWidth="625" frameHeight="751" />
+<SubTexture name="Xodia-throne UMiss0007" x="2494" y="733" width="625" height="732" frameX="0" frameY="-19" frameWidth="625" frameHeight="751" />
+</TextureAtlas>

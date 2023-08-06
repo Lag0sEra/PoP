@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": null,
+		"player1": "bf",
+		"player2": "jimmy",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Fade UI",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				12229.2993630573,
+				[
+					[
+						"Fade UI",
+						"0",
+						"5"
+					]
+				]
+			],
+			[
+				36687.898089172,
+				[
+					[
+						"Cinematics",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				61146.4968152866,
+				[
+					[
+						"Cinematics",
+						"2",
+						"0.5"
+					]
+				]
+			],
+			[
+				85605.0955414013,
+				[
+					[
+						"Shadow Trail",
+						"1",
+						"1"
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				110063.694267516,
+				[
+					[
+						"Cinematics",
+						"1",
+						"0.5"
+					],
+					[
+						"Shadow Trail",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				134522.292993631,
+				[
+					[
+						"Cinematics",
+						"2",
+						"0.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 157,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Photosynthesis-Progressive"
+	}
+}

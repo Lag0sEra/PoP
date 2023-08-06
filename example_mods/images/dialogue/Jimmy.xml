@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jimmy.png">
+<SubTexture name="Jimmy Confident0000" x="0" y="443" width="360" height="430" frameX="0" frameY="0" frameWidth="360" frameHeight="430" />
+<SubTexture name="Jimmy Glad0000" x="360" y="443" width="400" height="427" frameX="0" frameY="0" frameWidth="400" frameHeight="427" />
+<SubTexture name="Jimmy Angry0000" x="263" y="0" width="315" height="440" frameX="0" frameY="0" frameWidth="315" frameHeight="440" />
+<SubTexture name="Jimmy Nervous0000" x="578" y="0" width="324" height="433" frameX="0" frameY="0" frameWidth="324" frameHeight="433" />
+<SubTexture name="Jimmy Sad0000" x="902" y="0" width="273" height="409" frameX="0" frameY="0" frameWidth="273" frameHeight="409" />
+<SubTexture name="Jimmy Serious0000" x="0" y="0" width="263" height="443" frameX="0" frameY="0" frameWidth="263" frameHeight="443" />
+</TextureAtlas>

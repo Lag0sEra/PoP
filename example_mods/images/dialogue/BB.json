@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Bf talk Happy",
+			"idle_offsets": [
+				90,
+				-60
+			],
+			"idle_name": "Bf talk Happy",
+			"anim": "Happy",
+			"loop_offsets": [
+				90,
+				-60
+			]
+		},
+		{
+			"loop_name": "Bf talk Very happy",
+			"idle_offsets": [
+				90,
+				-64
+			],
+			"idle_name": "Bf talk Very happy",
+			"anim": "Very Happy",
+			"loop_offsets": [
+				90,
+				-64
+			]
+		},
+		{
+			"loop_name": "Bf talk Excited",
+			"idle_offsets": [
+				125,
+				-55
+			],
+			"idle_name": "Bf talk Excited",
+			"anim": "Excited",
+			"loop_offsets": [
+				125,
+				-55
+			]
+		},
+		{
+			"loop_name": "Bf talk Angry",
+			"idle_offsets": [
+				96,
+				-75
+			],
+			"idle_name": "Bf talk Angry",
+			"anim": "Angry",
+			"loop_offsets": [
+				96,
+				-75
+			]
+		},
+		{
+			"loop_name": "Bf talk Spooked",
+			"idle_offsets": [
+				90,
+				-60
+			],
+			"idle_name": "Bf talk Spooked",
+			"anim": "Spooked",
+			"loop_offsets": [
+				90,
+				-60
+			]
+		}
+	],
+	"image": "bfPortraits"
+}

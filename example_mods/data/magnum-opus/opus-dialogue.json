@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "... I saw your performance, X.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "I am terribly sorry sir. That blue kid really tested the best of my current abilities."
+		},
+		{
+			"expression": "talk",
+			"text": "And the best of your abilities is to feel compassion over that cactus, am I right?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "Defeat",
+			"text": "N-No sir, that's not what happe-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman"
+		},
+		{
+			"expression": "talk",
+			"text": "SILENCE!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "What part of \"I saw everything\" didn't you get, you failure.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Losing to a kid and a cactus. Pathetic. ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "Defeat",
+			"text": "B-but sir Albert...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman"
+		},
+		{
+			"expression": "talk",
+			"text": "You were supposed to be the ultimate lifeform, the perfect extermination machine...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Capable of getting rid of imperfect TRASH that ruin our research center's name...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "You were supposed to be my magnum opus.\\nBut today you showed me that you're imperfect too.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "You became the very thing i ordered you to destroy.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "Angry",
+			"text": "DON'T YOU DARE COMPARE ME TO THAT FILTHY BUNCH!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman"
+		},
+		{
+			"expression": "Demon",
+			"text": "GRAAAAAAH!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman"
+		},
+		{
+			"expression": "Defeat",
+			"text": "...oh no, I almost lost control there...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman"
+		},
+		{
+			"expression": "talk",
+			"text": "You still seem to struggle with that chip I installed, peculiar.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "...That means we're not too late modifying you to do a decent job.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "Defeat",
+			"text": "Albert sir, please listen to me-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't listen to incompetent fools.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		}
+	]
+}

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="text_visor.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="visor0000" x="0" y="0" width="1199" height="989" frameX="-40" frameY="-69" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0001" x="0" y="0" width="1199" height="989" frameX="-40" frameY="-69" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0002" x="0" y="0" width="1199" height="989" frameX="-40" frameY="-69" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0003" x="1199" y="0" width="1231" height="927" frameX="-19" frameY="-137" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0004" x="1199" y="0" width="1231" height="927" frameX="-19" frameY="-137" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0005" x="2430" y="0" width="1264" height="813" frameX="0" frameY="-253" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0006" x="2430" y="0" width="1264" height="813" frameX="0" frameY="-253" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0007" x="3694" y="0" width="1276" height="665" frameX="0" frameY="-396" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0008" x="4970" y="0" width="1245" height="503" frameX="-40" frameY="-533" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0009" x="6215" y="0" width="1209" height="623" frameX="-112" frameY="-482" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0010" x="6215" y="0" width="1209" height="623" frameX="-112" frameY="-482" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0011" x="0" y="989" width="1215" height="796" frameX="-168" frameY="-449" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0012" x="0" y="989" width="1215" height="796" frameX="-168" frameY="-449" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0013" x="1215" y="989" width="1201" height="889" frameX="-213" frameY="-430" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0014" x="1215" y="989" width="1201" height="889" frameX="-213" frameY="-430" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0015" x="1215" y="989" width="1201" height="889" frameX="-213" frameY="-430" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0016" x="2416" y="989" width="1168" height="996" frameX="-279" frameY="-411" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0017" x="2416" y="989" width="1168" height="996" frameX="-279" frameY="-411" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0018" x="3584" y="989" width="1126" height="1070" frameX="-357" frameY="-411" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0019" x="3584" y="989" width="1126" height="1070" frameX="-357" frameY="-411" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0020" x="4710" y="989" width="1039" height="1165" frameX="-493" frameY="-409" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0021" x="5749" y="989" width="955" height="1218" frameX="-609" frameY="-408" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0022" x="6704" y="989" width="803" height="1266" frameX="-798" frameY="-406" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0023" x="7507" y="989" width="635" height="1274" frameX="-996" frameY="-403" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0024" x="0" y="2263" width="658" height="1196" frameX="-996" frameY="-398" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0025" x="658" y="2263" width="1046" height="1198" frameX="-996" frameY="-242" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0026" x="1704" y="2263" width="1348" height="973" frameX="-996" frameY="-88" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0027" x="3052" y="2263" width="1404" height="797" frameX="-996" frameY="-43" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0028" x="4456" y="2263" width="1409" height="630" frameX="-996" frameY="-17" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0029" x="5865" y="2263" width="1404" height="599" frameX="-996" frameY="-12" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0030" x="0" y="3461" width="1393" height="605" frameX="-996" frameY="-6" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0031" x="1393" y="3461" width="1358" height="610" frameX="-996" frameY="-1" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0032" x="2751" y="3461" width="1341" height="610" frameX="-996" frameY="-1" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0033" x="4092" y="3461" width="1328" height="611" frameX="-996" frameY="0" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0034" x="5420" y="3461" width="1334" height="611" frameX="-996" frameY="0" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0035" x="6754" y="3461" width="1331" height="611" frameX="-996" frameY="0" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0036" x="6754" y="3461" width="1331" height="611" frameX="-996" frameY="0" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor0037" x="6754" y="3461" width="1331" height="611" frameX="-996" frameY="0" frameWidth="2405" frameHeight="1677"/>
+	<SubTexture name="visor_static0000" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0001" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0002" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0003" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0004" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0005" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0006" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0007" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0008" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0009" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0010" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0011" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0012" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0013" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0014" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0015" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0016" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0017" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0018" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0019" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0020" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0021" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0022" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0023" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0024" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0025" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0026" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0027" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0028" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0029" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0030" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0031" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0032" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0033" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0034" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0035" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0036" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0037" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0038" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0039" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0040" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0041" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0042" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0043" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0044" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0045" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0046" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0047" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0048" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0049" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0050" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0051" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0052" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0053" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0054" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0055" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0056" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0057" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0058" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0059" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0060" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0061" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0062" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0063" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0064" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0065" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0066" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0067" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0068" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0069" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0070" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0071" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0072" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0073" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0074" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0075" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0076" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0077" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0078" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0079" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0080" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0081" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0082" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0083" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0084" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0085" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0086" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0087" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0088" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0089" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0090" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0091" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0092" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0093" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0094" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0095" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0096" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0097" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0098" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0099" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0100" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0101" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0102" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0103" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0104" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0105" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0106" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0107" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0108" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0109" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0110" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0111" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0112" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0113" x="0" y="4072" width="1330" height="611"/>
+	<SubTexture name="visor_static0114" x="0" y="4072" width="1330" height="611"/>
+</TextureAtlas>

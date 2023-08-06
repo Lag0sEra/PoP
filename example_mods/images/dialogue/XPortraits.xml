@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="XPortraits.png">
+<SubTexture name="angy.png0000" x="0" y="542" width="338" height="456" frameX="0" frameY="0" frameWidth="338" frameHeight="456" />
+<SubTexture name="defeat.png0000" x="987" y="0" width="370" height="491" frameX="0" frameY="0" frameWidth="370" frameHeight="491" />
+<SubTexture name="disappointed.png0000" x="338" y="542" width="316" height="453" frameX="0" frameY="0" frameWidth="316" frameHeight="453" />
+<SubTexture name="sassy.png0000" x="0" y="0" width="372" height="542" frameX="0" frameY="0" frameWidth="372" frameHeight="542" />
+<SubTexture name="demon.png0000" x="372" y="0" width="615" height="523" frameX="0" frameY="0" frameWidth="615" frameHeight="523" />
+</TextureAtlas>

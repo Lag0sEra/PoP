@@ -1,0 +1,252 @@
+{
+	"dialogue": [
+		{
+			"expression": "Happy",
+			"text": "Such a great vacation , finally a vacation from rapping and other nonsense that Daddy has been doing.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Happy",
+			"text": "Boop skeep!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "Happy",
+			"text": "Yeah it was nice of Mommy to bring us here.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Spooked",
+			"text": "...Since when did someone put a cactus with sunglasses right next to us.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Spooked",
+			"text": "bop skeep...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "Glad",
+			"text": "Hiya!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Spooked",
+			"text": "WHOA, WHAT THE HELL ARE YOU!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Confident",
+			"text": "Oop sorry, didn't mean to jump at ya. My name is \"Project-J12MY\" , but I'd prefer my name to be Jimmy.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Happy",
+			"text": "Okay, can you move a tad bit to the side, you're sorta blocking the sun.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Nervous",
+			"text": "Oop sorry...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Smug",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Happy",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "Serious",
+			"text": "(WHAT SHOULD I SAY)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Confident",
+			"text": "So, you guys have any interesting hobbies..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Excited",
+			"text": "boop skeep dickly sheep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "Nervous",
+			"text": "Huh",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Happy",
+			"text": "He mostly raps.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Glad",
+			"text": "Whoa what a crazy coincidence, because I RAP TOO!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Smug",
+			"text": "oh nice.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Excited",
+			"text": "bskeep!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "Confident",
+			"text": "also, uhh, you look like a fish i saw yesterday!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Spooked",
+			"text": "Sorry, what",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Glad",
+			"text": "Like, uh, a shiny large fish i saw yesterday\\nlooked pretty cool! You look nice like it!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Angry",
+			"text": "hoh, i'm LARGE",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Nervous",
+			"text": "...no i meant you're just big like the fish!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Spooked",
+			"text": "what",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Angry",
+			"text": "what are you saying.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Sad",
+			"text": "You know that my Boyfriend can sing until\\nyour throat dries up.. ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Angry",
+			"text": "BF IT'S TIME TO RAP!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Angry",
+			"text": "Good luck cactus, you'll need it.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "Serious",
+			"text": "Oh god what have i done...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		}
+	]
+}

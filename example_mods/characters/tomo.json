@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tomo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "temo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				84
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "temo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				-44
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "temo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "temo right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/temoo",
+	"position": [
+		60,
+		240
+	],
+	"healthicon": "tomo",
+	"flip_x": true,
+	"healthbar_colors": [
+		42,
+		43,
+		62
+	],
+	"camera_position": [
+		0,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

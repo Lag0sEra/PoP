@@ -1,0 +1,77 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.50,
+	"image": "XPortraits",
+	"animations": [
+		{
+			"loop_name": "angy.png",
+			"idle_offsets": [
+				-113,
+				0
+			],
+			"idle_name": "angy.png",
+			"anim": "Angry",
+			"loop_offsets": [
+				-113,
+				0
+			]
+		},
+		{
+			"loop_name": "defeat.png",
+			"idle_offsets": [
+				-120,
+				10
+			],
+			"idle_name": "defeat.png",
+			"anim": "Defeat",
+			"loop_offsets": [
+				-120,
+				10
+			]
+		},
+		{
+			"loop_name": "sassy.png",
+			"idle_offsets": [
+				-120,
+				50
+			],
+			"idle_name": "sassy.png",
+			"anim": "Sassy",
+			"loop_offsets": [
+				-120,
+				50
+			]
+		},
+		{
+			"loop_name": "disappointed.png",
+			"idle_offsets": [
+				-125,
+				10
+			],
+			"idle_name": "disappointed.png",
+			"anim": "Disappointed",
+			"loop_offsets": [
+				-125,
+				10
+			]
+		},
+		{
+			"loop_name": "demon.png",
+			"idle_offsets": [
+				-15,
+				40
+			],
+			"idle_name": "demon.png",
+			"anim": "Demon",
+			"loop_offsets": [
+				-15,
+				40
+			]
+		}
+	]
+	
+}

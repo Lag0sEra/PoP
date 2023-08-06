@@ -1,0 +1,212 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*a video is supposed to be put here*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "Angry",
+			"text": "the hell was that?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg",
+			"boxState": "normal",
+			"expression": "Sad",
+			"text": "Pretty sure that's Tabi again-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "Spooked",
+			"text": "sorry what-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg",
+			"boxState": "normal",
+			"expression": "Sad",
+			"text": "He's been stalking us for the last few months...\\nI wouldn't be surprised if he made a move"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "Goodness i need to work more on my landings."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Sassy",
+			"text": "Ah, hello there. Let's make this fast shall we? I don't have all day, now..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "Nervous",
+			"text": "Who are you? "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Sassy",
+			"text": "Oh I see! The young gentleman and his mistress have found my target! How convenient!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "angry",
+			"expression": "Angry",
+			"text": "Excuse me? Target? WHO THE HELL ARE YOU?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Disappointed",
+			"text": "What?! None of you know who I am?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Sassy",
+			"text": "I am Project-X, made to exterminate failed projects like good sir here."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Sassy",
+			"text": "...but i suppose you can call me...\\nXTERMINATION"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "Spooked",
+			"text": "Failed experiments? Jimmy, What is this Metagross looking squid saying?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "Serious",
+			"text": "sigh, you have to know that I'm a genetically modified being..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "Serious",
+			"text": "an artificial creation that became sentient because of the unstable formula put in my genetic code..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "Serious",
+			"text": " and I'm currently a fugitive from the place that i was created in..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "angry",
+			"expression": "Sad",
+			"text": " THAT PLACE IS A NIGHTMARE I DON'T WANNA GO BACK THERE! "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Disappointed",
+			"text": "Good grief, such a display of cowardice. I'll put an end to this misery promptly. Stand aside, young man."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "I'm not sure of what's happening right now , but I'm not gonna let a gigantic octopus just threaten to kill a friend..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "IN FRONT OF ME!! You'll have to get past me to do it!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "Sad",
+			"text": "F-friend?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Angry",
+			"text": "So it comes to this, then..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Angry",
+			"text": "Fine, I suppose I'll handle the lot of you then."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "angry",
+			"expression": "Angry",
+			"text": "Prepare to put up your dukes!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "angry",
+			"expression": "Excited",
+			"text": "SO BE IT XFACE"
+		}
+	]
+}

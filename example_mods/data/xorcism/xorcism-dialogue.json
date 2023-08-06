@@ -1,0 +1,220 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "Good lord... You commonfolk... *cough*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "Glad",
+			"text": "Blue kid! Thank you so much! That was probably the most awesome thing I've ever done!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "Very Happy",
+			"text": "beep skeep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "J12MY... Jimmy, if you prefer. I suppose you weren't xterminated after all. It shows your resilience."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "Angry",
+			"text": "Is that a compliment?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "I suppose. But PROGRESS INC. wants you dead regardless. While I may follow their orders..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "You and your little friend seem happy together.\\nI may sound heartless, but I assure you that I have a lot of them."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "Nervous",
+			"text": "So what does this mean? We're friends?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "No. Jimmy. I am warning you. When Progress Inc. checks in and finds me defeated, they will activate the emergency infusion mode..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "It will jumpstart my cyborg core, and revert me to my primal state."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "normal",
+			"expression": "Angry",
+			"text": "Primal state?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "You do not want to be around when X-Odia arrives."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "My other side is all the power of my synthetic body, combined with the murderous intent of a Vampire Squid."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg",
+			"boxState": "normal",
+			"expression": "Smug",
+			"text": " I thought you were an octopus?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "Young miss, take the cactus as far as you can, and the boy too. Run."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "angry",
+			"expression": "Excited",
+			"text": "I'm not leaving behind someone who's suffering , we're fighting this curse and bring you back to normal!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg",
+			"boxState": "normal",
+			"expression": "Sad",
+			"text": "No, BF. You can't stay here."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "angry",
+			"expression": "Angry",
+			"text": "Just.....GO! Imma fight this thing as long as I can so you can flee back to safety. Trust me on this baby..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg",
+			"boxState": "normal",
+			"expression": "Nervous",
+			"text": "True... it will buy us some time."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": " I already feel the toxins coursing. You need to leave."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy",
+			"boxState": "angry",
+			"expression": "Glad",
+			"text": "Blue boy! Good luck. Please be safe."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "angry",
+			"expression": "Excited",
+			"text": "Don't worry vegetable I'll be just fine!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg",
+			"boxState": "angry",
+			"expression": "Excited",
+			"text": "Be careful Boyfriend!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*here should be put the xodia transformation video* "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "normal",
+			"expression": "Defeat",
+			"text": "I suppose it is just... u-us now. I may have not been the kindest in our p-previous bout, but I am sorry now. S-s-sing for your life. X-Odia will show you no mercy."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "Angry",
+			"text": "Bop Bep..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "xman",
+			"boxState": "angry",
+			"expression": "Demon",
+			"text": "I... will show you no mercy. Human... thing."
+		}
+	]
+}

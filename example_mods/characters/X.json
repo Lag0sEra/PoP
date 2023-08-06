@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Octo Idle bop"
+		},
+		{
+			"offsets": [
+				-54,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Octo Right sing"
+		},
+		{
+			"offsets": [
+				30,
+				-132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Octo Sing down"
+		},
+		{
+			"offsets": [
+				5,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Octo Left sing"
+		},
+		{
+			"offsets": [
+				-133,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Octo Up sing"
+		},
+		{
+			"offsets": [
+				-13,
+				-39
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Scream",
+			"indices": [],
+			"name": "Octo Stepped on a lego"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Octo",
+	"position": [
+		-670,
+		-490
+	],
+	"healthicon": "X",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		206,
+		214
+	],
+	"camera_position": [
+		360,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				166,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "X-throne Left"
+		},
+		{
+			"offsets": [
+				87,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "X-throne Down"
+		},
+		{
+			"offsets": [
+				-14,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "X-throne Up"
+		},
+		{
+			"offsets": [
+				-6,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "X-throne Idle bop"
+		},
+		{
+			"offsets": [
+				-29,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "X-throne Right"
+		},
+		{
+			"offsets": [
+				166,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "X-throne LMiss"
+		},
+		{
+			"offsets": [
+				-14,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "X-throne UMiss"
+		},
+		{
+			"offsets": [
+				-29,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "X-throne RMiss"
+		},
+		{
+			"offsets": [
+				10,
+				32
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "Beeg sigh",
+			"indices": [],
+			"name": "X-throne Sigh"
+		},
+		{
+			"offsets": [
+				87,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "X-throne DMiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/X-throne",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "throne",
+	"flip_x": true,
+	"healthbar_colors": [
+		154,
+		206,
+		214
+	],
+	"camera_position": [
+		60,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

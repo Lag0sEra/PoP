@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-91,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cactus idle"
+		},
+		{
+			"offsets": [
+				-67,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cactus left"
+		},
+		{
+			"offsets": [
+				-189,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cactus right"
+		},
+		{
+			"offsets": [
+				-171,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cactus down"
+		},
+		{
+			"offsets": [
+				-116,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cactus up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				23
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "cactus hey!",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-286,
+				-145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-379,
+				-175
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-391,
+				-89
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-376,
+				-255
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cactus",
+	"position": [
+		-280,
+		120
+	],
+	"healthicon": "jimmy",
+	"flip_x": false,
+	"healthbar_colors": [
+		157,
+		204,
+		125
+	],
+	"camera_position": [
+		230,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

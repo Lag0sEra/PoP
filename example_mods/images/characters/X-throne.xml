@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="X-throne.png"><SubTexture name="X-throne Down0000" x="4648" y="6357" width="678" height="618" frameX="-2" frameY="-25" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne Down0001" x="5326" y="6357" width="680" height="618" frameX="0" frameY="-25" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne Down0002" x="6006" y="6357" width="676" height="617" frameX="-3" frameY="-26" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne Down0003" x="3302" y="6357" width="673" height="624" frameX="-4" frameY="-19" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne Down0004" x="1965" y="6357" width="669" height="630" frameX="-7" frameY="-13" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne Down0005" x="631" y="6357" width="667" height="634" frameX="-9" frameY="-9" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne Down0006" x="6388" y="5114" width="667" height="637" frameX="-9" frameY="-6" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne Down0007" x="6388" y="641" width="667" height="640" frameX="-9" frameY="-3" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne Down0008" x="5707" y="5695" width="667" height="641" frameX="-9" frameY="-2" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne Idle bop0000" x="0" y="5029" width="629" height="666" frameX="0" frameY="-22" frameWidth="629" frameHeight="688" />
+<SubTexture name="X-throne Idle bop0001" x="629" y="5029" width="629" height="666" frameX="0" frameY="-22" frameWidth="629" frameHeight="688" />
+<SubTexture name="X-throne Idle bop0002" x="0" y="5695" width="628" height="662" frameX="-1" frameY="-26" frameWidth="629" frameHeight="688" />
+<SubTexture name="X-throne Idle bop0003" x="628" y="5695" width="628" height="662" frameX="-1" frameY="-26" frameWidth="629" frameHeight="688" />
+<SubTexture name="X-throne Idle bop0004" x="5067" y="2039" width="625" height="675" frameX="-4" frameY="-13" frameWidth="629" frameHeight="688" />
+<SubTexture name="X-throne Idle bop0005" x="5067" y="2714" width="625" height="675" frameX="-4" frameY="-13" frameWidth="629" frameHeight="688" />
+<SubTexture name="X-throne Idle bop0006" x="4366" y="682" width="625" height="681" frameX="-4" frameY="-7" frameWidth="629" frameHeight="688" />
+<SubTexture name="X-throne Idle bop0007" x="4366" y="1363" width="625" height="681" frameX="-4" frameY="-7" frameWidth="629" frameHeight="688" />
+<SubTexture name="X-throne Idle bop0008" x="1328" y="3660" width="625" height="685" frameX="-4" frameY="-3" frameWidth="629" frameHeight="688" />
+<SubTexture name="X-throne Idle bop0009" x="3741" y="0" width="625" height="688" frameX="-4" frameY="0" frameWidth="629" frameHeight="688" />
+<SubTexture name="X-throne Left0000" x="1246" y="2962" width="715" height="692" frameX="0" frameY="0" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne Left0001" x="1961" y="2962" width="713" height="692" frameX="-2" frameY="0" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne Left0002" x="2674" y="2962" width="705" height="691" frameX="-10" frameY="-1" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne Left0003" x="625" y="3660" width="703" height="687" frameX="-12" frameY="-5" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne Left0004" x="2577" y="3660" width="702" height="684" frameX="-13" frameY="-8" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne Left0005" x="4366" y="0" width="701" height="682" frameX="-14" frameY="-10" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne Left0006" x="4366" y="2044" width="700" height="681" frameX="-15" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne Left0007" x="4366" y="2725" width="700" height="681" frameX="-15" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne Left0008" x="4366" y="3406" width="700" height="681" frameX="-15" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne Left0009" x="0" y="4348" width="701" height="681" frameX="-14" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne Left0010" x="701" y="4348" width="701" height="681" frameX="-14" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne Right0000" x="2512" y="5695" width="617" height="647" frameX="-5" frameY="-19" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne Right0001" x="3129" y="5695" width="617" height="647" frameX="-5" frameY="-19" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne Right0002" x="5770" y="4626" width="618" height="653" frameX="-3" frameY="-13" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne Right0003" x="5770" y="3971" width="617" height="655" frameX="-2" frameY="-11" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne Right0004" x="5770" y="3313" width="617" height="658" frameX="-1" frameY="-8" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne Right0005" x="5770" y="2653" width="618" height="660" frameX="0" frameY="-6" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne Right0006" x="5770" y="1991" width="618" height="662" frameX="0" frameY="-4" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne Right0007" x="5770" y="1328" width="618" height="663" frameX="0" frameY="-3" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne Right0008" x="4955" y="5029" width="618" height="664" frameX="0" frameY="-2" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne Right0009" x="5770" y="0" width="618" height="664" frameX="0" frameY="-2" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne Right0010" x="5770" y="664" width="618" height="664" frameX="0" frameY="-2" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne Up0000" x="1250" y="0" width="619" height="745" frameX="-6" frameY="-6" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne Up0001" x="0" y="751" width="619" height="745" frameX="-6" frameY="-6" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne Up0002" x="1244" y="751" width="622" height="740" frameX="-3" frameY="-11" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne Up0003" x="0" y="1496" width="625" height="737" frameX="0" frameY="-14" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne Up0004" x="625" y="1496" width="625" height="735" frameX="0" frameY="-16" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne Up0005" x="2494" y="0" width="625" height="733" frameX="0" frameY="-18" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne Up0006" x="2494" y="1465" width="625" height="731" frameX="0" frameY="-20" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne Up0007" x="0" y="2233" width="625" height="729" frameX="0" frameY="-22" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne Up0008" x="625" y="2233" width="625" height="729" frameX="0" frameY="-22" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne Up0009" x="1250" y="2233" width="625" height="729" frameX="0" frameY="-22" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne DMiss0000" x="4648" y="6357" width="678" height="618" frameX="-2" frameY="-25" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne DMiss0001" x="3975" y="6357" width="673" height="621" frameX="-7" frameY="-22" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne DMiss0002" x="2634" y="6357" width="668" height="625" frameX="-8" frameY="-18" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne DMiss0003" x="1298" y="6357" width="667" height="634" frameX="-9" frameY="-9" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne DMiss0004" x="6388" y="4476" width="667" height="638" frameX="-9" frameY="-5" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne DMiss0005" x="6388" y="0" width="667" height="641" frameX="-9" frameY="-2" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne DMiss0006" x="4374" y="5695" width="666" height="643" frameX="-10" frameY="0" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne DMiss0007" x="5040" y="5695" width="667" height="642" frameX="-9" frameY="-1" frameWidth="680" frameHeight="643" />
+<SubTexture name="X-throne LMiss0000" x="1246" y="2962" width="715" height="692" frameX="0" frameY="0" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne LMiss0001" x="1402" y="4348" width="712" height="681" frameX="-3" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne LMiss0002" x="2114" y="4348" width="708" height="681" frameX="-7" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne LMiss0003" x="2822" y="4348" width="706" height="681" frameX="-9" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne LMiss0004" x="3528" y="4348" width="705" height="681" frameX="-10" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne LMiss0005" x="4233" y="4348" width="704" height="681" frameX="-11" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne LMiss0006" x="5067" y="0" width="703" height="681" frameX="-12" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne LMiss0007" x="5067" y="681" width="703" height="681" frameX="-12" frameY="-11" frameWidth="715" frameHeight="692" />
+<SubTexture name="X-throne RMiss0000" x="2512" y="5695" width="617" height="647" frameX="-5" frameY="-19" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne RMiss0001" x="1875" y="1496" width="614" height="666" frameX="-7" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne RMiss0002" x="1258" y="5029" width="615" height="666" frameX="-5" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne RMiss0003" x="1873" y="5029" width="616" height="666" frameX="-4" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne RMiss0004" x="2489" y="5029" width="615" height="666" frameX="-4" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne RMiss0005" x="3104" y="5029" width="616" height="666" frameX="-2" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne RMiss0006" x="3720" y="5029" width="617" height="666" frameX="-1" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne RMiss0007" x="4337" y="5029" width="618" height="666" frameX="0" frameY="0" frameWidth="622" frameHeight="666" />
+<SubTexture name="X-throne UMiss0000" x="1250" y="0" width="619" height="745" frameX="-6" frameY="-6" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne UMiss0001" x="0" y="0" width="625" height="751" frameX="0" frameY="0" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne UMiss0002" x="625" y="0" width="625" height="746" frameX="0" frameY="-5" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne UMiss0003" x="619" y="751" width="625" height="743" frameX="0" frameY="-8" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne UMiss0004" x="1869" y="0" width="625" height="740" frameX="0" frameY="-11" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne UMiss0005" x="1869" y="740" width="625" height="738" frameX="0" frameY="-13" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne UMiss0006" x="1250" y="1496" width="625" height="735" frameX="0" frameY="-16" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne UMiss0007" x="2494" y="733" width="625" height="732" frameX="0" frameY="-19" frameWidth="625" frameHeight="751" />
+<SubTexture name="X-throne Sigh0000" x="623" y="2962" width="623" height="693" frameX="-14" frameY="-12" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0001" x="3119" y="1406" width="622" height="700" frameX="-15" frameY="-5" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0002" x="3119" y="2106" width="622" height="700" frameX="-15" frameY="-5" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0003" x="3119" y="704" width="622" height="702" frameX="-15" frameY="-3" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0004" x="3119" y="0" width="622" height="704" frameX="-15" frameY="-1" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0005" x="1875" y="2233" width="622" height="705" frameX="-15" frameY="0" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0006" x="2497" y="2233" width="622" height="705" frameX="-15" frameY="0" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0007" x="2497" y="2233" width="622" height="705" frameX="-15" frameY="0" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0008" x="2497" y="2233" width="622" height="705" frameX="-15" frameY="0" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0009" x="2497" y="2233" width="622" height="705" frameX="-15" frameY="0" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0010" x="0" y="2962" width="623" height="698" frameX="-14" frameY="-7" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0011" x="1953" y="3660" width="624" height="685" frameX="-13" frameY="-20" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0012" x="5067" y="3389" width="637" height="674" frameX="0" frameY="-31" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0013" x="1884" y="5695" width="628" height="657" frameX="-9" frameY="-48" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0014" x="3746" y="5695" width="628" height="646" frameX="-9" frameY="-59" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0015" x="0" y="6357" width="631" height="636" frameX="-6" frameY="-69" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0016" x="6388" y="1281" width="628" height="639" frameX="-9" frameY="-66" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0017" x="6388" y="1920" width="628" height="639" frameX="-9" frameY="-66" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0018" x="6388" y="2559" width="628" height="639" frameX="-9" frameY="-66" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0019" x="6388" y="3198" width="628" height="639" frameX="-9" frameY="-66" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0020" x="6388" y="3837" width="628" height="639" frameX="-9" frameY="-66" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0021" x="6388" y="3837" width="628" height="639" frameX="-9" frameY="-66" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0022" x="6388" y="3837" width="628" height="639" frameX="-9" frameY="-66" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0023" x="6388" y="3837" width="628" height="639" frameX="-9" frameY="-66" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0024" x="1256" y="5695" width="628" height="658" frameX="-9" frameY="-47" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0025" x="5067" y="4063" width="627" height="668" frameX="-10" frameY="-37" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0026" x="5067" y="1362" width="626" height="677" frameX="-11" frameY="-28" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0027" x="3279" y="3660" width="626" height="683" frameX="-11" frameY="-22" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0028" x="3741" y="688" width="625" height="688" frameX="-12" frameY="-17" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0029" x="3741" y="1376" width="625" height="688" frameX="-12" frameY="-17" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0030" x="3741" y="2064" width="625" height="688" frameX="-12" frameY="-17" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0031" x="3741" y="2752" width="625" height="688" frameX="-12" frameY="-17" frameWidth="637" frameHeight="705" />
+<SubTexture name="X-throne Sigh0032" x="0" y="3660" width="625" height="688" frameX="-12" frameY="-17" frameWidth="637" frameHeight="705" />
+</TextureAtlas>

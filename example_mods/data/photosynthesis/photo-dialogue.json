@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "Excited",
+			"text": "Whoa! Gotta admit that was pretty good swimmer plant!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "Nervous",
+			"text": "whew... That was a wild ride... Could we talk it out instead of fighting, I think you misunderstood what I said...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Angry",
+			"text": "Explain youself then. You can't go around and say to people they're large.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Sad",
+			"text": "I just wanted to compliment you because you just look nice... But I didn't know what to say-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Sad",
+			"text": "I-it wasn't my intention to offend you! I'm sorry...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Happy",
+			"text": "ohhh, you didn't need to say i looked large.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Smug",
+			"text": "But you apologized so we're good.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Excited",
+			"text": "Since you didn't insult my gf, how about we rap for fun this time!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "Excited",
+			"text": "pretty sure you knew how, and i could use the practice!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "Happy",
+			"text": "I have some unfinished business back home..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "Nervous",
+			"text": "Tell me about it.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bg"
+		},
+		{
+			"expression": "Glad",
+			"text": "uhm YEAH!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Confident",
+			"text": "e-ehm, i mean, sure why not haha-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "jimmy"
+		},
+		{
+			"expression": "Excited",
+			"text": "beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bb"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				214,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Albert Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Albert Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				52
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Albert Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				53
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Albert Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Albert Idle anger"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Albert",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "albert",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-180,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

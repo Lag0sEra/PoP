@@ -1,0 +1,40 @@
+:op:1:narration1-1:It's the year 20XX , in which the scientific field showed nothing but progress.
+:op:2:narration1-2:With new discoveries ranging from high-tech machines to brand new species created through cross-breeding , science was truly doing wonders...
+:op:3:narration1-3:A small group of very talented people thought that it would be a good idea to create a place in which scientists could really show their true colors; 
+:op:4_6:narration1-4:And just like that the famous research center PROGRESS INC. was born.
+:op:5:narration1-5:As we said earlier the results of this scientific revolution were amazing , but every now and then something rather unexpected might happen...
+:op:4_6:narration1-6:This brings us to our story , in which a new experiment was put in place...
+:op:7_8:narration1-7:This peculiar experiment would see that there's a possibilty to genetically modify a plant to make it survive in aquatic territory , and to make things interesting... 
+:op:7_8:narration1-8:...They chose a cactus as a test subject ,the most hydrophobic plant in existence. 
+:op:9.1:narration1-9:The experiment turned out to be a success,and while everyone was enjoying pizza as celebration.
+:op:9.2:none:!!!
+:op:10:narration1-10:The security alerted everyone that project 'J12MY' became sentient and escaped into the ocean.
+:op:11:narration1-11:PROGRESS INC decided to send an android specialized in these kinda things , the name : PROJECT-X.
+:fade
+:gf:happy:gf:What a great vacation, finally a break from all that rapping and the other nonsense that Daddy has been doing.
+:bf:yeah:bf: boop skeep!
+:gf:happy:gf:Yeah it was nice of Mommy to bring us here.
+:gf:what:gf:Hey, when did this cactus wearing sunglasses get here?
+:bf:shocked:bf:Bop? skeep...
+:jimmy:Glad:spinesJ1: Hiya!
+:gf:what:gf:WOAH, what the hell are you?
+:jimmy:Confident:spinesJ2:Oops, sorry, I didn't mean to jump at you, my name is "Project J12MMY" but I'd prefer my name to be Jimmy.
+:gf:hopeful:gf:okay, can you move a tad bit to the side, you're sort of blocking the sun.
+:jimmy:Nervous:spinesJ3:oop, sorry.
+:bf:none:none:...
+:jimmy:Nervous:spinesJ4:(WHAT SHOULD I SAY???)
+:jimmy:Glad:spinesJ5: so uh, do you guys have any interesting... hobbies?
+:bf:neutral:bf:skbeep bop bep skbop.
+:jimmy:Nervous:spinesJ6: Huh?
+:gf:hehe:gf:he mostly raps.
+:jimmy:Confident:spinesJ7: woah, what a crazy coincidence because uhhh, I RAP TOO!
+:gf:happy:gf:oh nice.
+:bf:yeah:bf:skbeep.
+:jimmy:Confident:spinesJ8:and also uhhhh, you look like a fish I saw yesterday..!
+:gf:what:gf:sorry what.
+:jimmy:Confident:spinesJ9:like, uh, a shiny, large fish I saw yesterday looked pretty cool! You look nice like it!
+:gf:angy:gf: hoh, I'm large?
+:jimmy:Nervous:spinesJ10:no! I meant you're just big like the fish!
+:gf:angy:gf:What did you just say? You know, you're a real prick. My boyfriend can sing until your throat dries up! BF, it's time to rap!
+:bf:angry:bf:good luck cactus, you'll need it.
+:jimmy:Serious:spinesJ11:Oh god what have I done

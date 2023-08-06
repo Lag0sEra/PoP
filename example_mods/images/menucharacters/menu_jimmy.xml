@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu-jimmy.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cactus idle0000" x="50" y="50" width="949" height="849"/>
+	<SubTexture name="cactus idle0001" x="1049" y="50" width="949" height="849"/>
+	<SubTexture name="cactus idle0002" x="2048" y="50" width="949" height="849"/>
+	<SubTexture name="cactus idle0003" x="3047" y="50" width="949" height="849"/>
+	<SubTexture name="cactus idle0004" x="50" y="949" width="949" height="849"/>
+	<SubTexture name="cactus idle0005" x="1049" y="949" width="949" height="849"/>
+	<SubTexture name="cactus idle0006" x="2048" y="949" width="949" height="849"/>
+	<SubTexture name="cactus idle0007" x="3047" y="949" width="949" height="849"/>
+	<SubTexture name="cactus idle0008" x="50" y="1848" width="949" height="849"/>
+	<SubTexture name="cactus idle0009" x="50" y="1848" width="949" height="849"/>
+	<SubTexture name="cactus idle0010" x="50" y="1848" width="949" height="849"/>
+	<SubTexture name="cactus idle0011" x="50" y="1848" width="949" height="849"/>
+	<SubTexture name="cactus idle0012" x="50" y="1848" width="949" height="849"/>
+	<SubTexture name="cactus idle0013" x="50" y="1848" width="949" height="849"/>
+</TextureAtlas>

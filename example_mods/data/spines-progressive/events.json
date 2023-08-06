@@ -1,0 +1,174 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": null,
+		"player1": "bf",
+		"player2": "jimmy",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cinematics",
+						"1",
+						"0.5"
+					],
+					[
+						"Fade UI",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				8622.75449101796,
+				[
+					[
+						"Play Sound",
+						"intro3",
+						"1"
+					]
+				]
+			],
+			[
+				9341.31736526946,
+				[
+					[
+						"Play Sound",
+						"intro2",
+						"1"
+					]
+				]
+			],
+			[
+				10059.880239521,
+				[
+					[
+						"Play Sound",
+						"intro3",
+						"1"
+					]
+				]
+			],
+			[
+				10419.1616766467,
+				[
+					[
+						"Play Sound",
+						"intro2",
+						"1"
+					],
+					[
+						"imageb",
+						"ready",
+						"0.37"
+					]
+				]
+			],
+			[
+				10778.4431137725,
+				[
+					[
+						"Play Sound",
+						"intro1",
+						"1"
+					],
+					[
+						"imageb",
+						"set",
+						"0.37"
+					]
+				]
+			],
+			[
+				11137.7245508982,
+				[
+					[
+						"Play Sound",
+						"introGo",
+						"1"
+					],
+					[
+						"imageb",
+						"go",
+						"0.50"
+					]
+				]
+			],
+			[
+				11497.005988024,
+				[
+					[
+						"Cinematics",
+						"2",
+						"0.5"
+					],
+					[
+						"Fade UI",
+						"0",
+						"3"
+					]
+				]
+			],
+			[
+				106347.305389221,
+				[
+					[
+						"Cinematics",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				117844.311377245,
+				[
+					[
+						"Cinematics",
+						"2",
+						"0.5"
+					]
+				]
+			],
+			[
+				123592.814371257,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.5"
+					]
+				]
+			],
+			[
+				129341.317365269,
+				[
+					[
+						"Shadow Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				165628.74251497,
+				[
+					[
+						"Shadow Trail",
+						"0",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 167,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Spines-Progressive"
+	}
+}

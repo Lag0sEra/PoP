@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Project F.png">
+<SubTexture name="Project F Bye Bye0000" x="0" y="3127" width="381" height="483" frameX="-4" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0001" x="381" y="3127" width="379" height="483" frameX="-6" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0002" x="760" y="3127" width="378" height="483" frameX="-7" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0003" x="760" y="3127" width="378" height="483" frameX="-7" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0004" x="1138" y="3127" width="380" height="483" frameX="-5" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0005" x="1518" y="3127" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0006" x="1903" y="3127" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0007" x="2269" y="3127" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0008" x="2635" y="3127" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0009" x="3001" y="3127" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0010" x="3719" y="0" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0011" x="3719" y="483" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0012" x="3719" y="966" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0013" x="3719" y="1449" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0014" x="3719" y="1932" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0015" x="3719" y="2415" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0016" x="3719" y="2898" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0017" x="4085" y="0" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0018" x="4085" y="483" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0019" x="4085" y="966" width="366" height="483" frameX="-19" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0020" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0021" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0022" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0023" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0024" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0025" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0026" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0027" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0028" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0029" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0030" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0031" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0032" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0033" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0034" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0035" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0036" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0037" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0038" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0039" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0040" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0041" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0042" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0043" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0044" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0045" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0046" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0047" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0048" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0049" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0050" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0051" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0052" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0053" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0054" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0055" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0056" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0057" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0058" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0059" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0060" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0061" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0062" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0063" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0064" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0065" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0066" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0067" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0068" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0069" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0070" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0071" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0072" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0073" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0074" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0075" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0076" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0077" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0078" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0079" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0080" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0081" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0082" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0083" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0084" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0085" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0086" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0087" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0088" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0089" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0090" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0091" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0092" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0093" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0094" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0095" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0096" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0097" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0098" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Bye Bye0099" x="0" y="3610" width="385" height="483" frameX="0" frameY="0" frameWidth="385" frameHeight="483" />
+<SubTexture name="Project F Down0000" x="385" y="3610" width="363" height="440" frameX="0" frameY="-70" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0001" x="3357" y="1835" width="361" height="437" frameX="0" frameY="-73" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0002" x="3357" y="1391" width="359" height="444" frameX="-3" frameY="-66" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0003" x="3357" y="941" width="358" height="450" frameX="-4" frameY="-60" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0004" x="3357" y="488" width="357" height="453" frameX="-6" frameY="-56" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0005" x="4085" y="2839" width="357" height="456" frameX="-6" frameY="-53" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0006" x="4085" y="2380" width="358" height="459" frameX="-6" frameY="-50" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0007" x="4085" y="1919" width="358" height="461" frameX="-6" frameY="-48" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0008" x="4085" y="1919" width="358" height="461" frameX="-6" frameY="-48" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0009" x="4085" y="1919" width="358" height="461" frameX="-6" frameY="-48" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0010" x="4085" y="1919" width="358" height="461" frameX="-6" frameY="-48" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0011" x="4085" y="1919" width="358" height="461" frameX="-6" frameY="-48" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0012" x="4085" y="1919" width="358" height="461" frameX="-6" frameY="-48" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0013" x="4085" y="1919" width="358" height="461" frameX="-6" frameY="-48" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0014" x="4085" y="1919" width="358" height="461" frameX="-6" frameY="-48" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0015" x="4085" y="1449" width="361" height="470" frameX="-6" frameY="-39" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0016" x="3357" y="0" width="362" height="488" frameX="-6" frameY="-21" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0017" x="370" y="1614" width="366" height="509" frameX="-6" frameY="0" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0018" x="736" y="1614" width="366" height="509" frameX="-6" frameY="0" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0019" x="2273" y="0" width="366" height="507" frameX="-6" frameY="-2" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Down0020" x="2273" y="0" width="366" height="507" frameX="-6" frameY="-2" frameWidth="372" frameHeight="510" />
+<SubTexture name="Project F Idle froggin0000" x="2091" y="2631" width="379" height="491" frameX="0" frameY="-17" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0001" x="2470" y="2631" width="380" height="491" frameX="0" frameY="-17" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0002" x="1045" y="2631" width="374" height="493" frameX="-6" frameY="-15" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0003" x="0" y="2631" width="367" height="496" frameX="-12" frameY="-12" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0004" x="2639" y="2018" width="366" height="501" frameX="-12" frameY="-7" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0005" x="2639" y="1012" width="365" height="503" frameX="-12" frameY="-5" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0006" x="2639" y="507" width="365" height="505" frameX="-12" frameY="-3" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0007" x="1478" y="1614" width="366" height="508" frameX="-12" frameY="0" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0008" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0009" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0010" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0011" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0012" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0013" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0014" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0015" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0016" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0017" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0018" x="2091" y="2631" width="379" height="491" frameX="0" frameY="-17" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0019" x="2470" y="2631" width="380" height="491" frameX="0" frameY="-17" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0020" x="1045" y="2631" width="374" height="493" frameX="-6" frameY="-15" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0021" x="0" y="2631" width="367" height="496" frameX="-12" frameY="-12" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0022" x="2639" y="2018" width="366" height="501" frameX="-12" frameY="-7" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0023" x="2639" y="1012" width="365" height="503" frameX="-12" frameY="-5" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0024" x="2639" y="507" width="365" height="505" frameX="-12" frameY="-3" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0025" x="1478" y="1614" width="366" height="508" frameX="-12" frameY="0" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0026" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0027" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0028" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0029" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0030" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0031" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0032" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0033" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0034" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0035" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0036" x="2091" y="2631" width="379" height="491" frameX="0" frameY="-17" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0037" x="2470" y="2631" width="380" height="491" frameX="0" frameY="-17" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0038" x="1045" y="2631" width="374" height="493" frameX="-6" frameY="-15" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0039" x="0" y="2631" width="367" height="496" frameX="-12" frameY="-12" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0040" x="2639" y="2018" width="366" height="501" frameX="-12" frameY="-7" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0041" x="2639" y="1012" width="365" height="503" frameX="-12" frameY="-5" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0042" x="2639" y="507" width="365" height="505" frameX="-12" frameY="-3" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0043" x="1478" y="1614" width="366" height="508" frameX="-12" frameY="0" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0044" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0045" x="2273" y="1014" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0046" x="2273" y="1521" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0047" x="0" y="2124" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0048" x="366" y="2124" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0049" x="732" y="2124" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0050" x="1098" y="2124" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0051" x="1464" y="2124" width="370" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0052" x="1834" y="2124" width="367" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0053" x="1834" y="2124" width="367" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0054" x="2850" y="2631" width="380" height="491" frameX="0" frameY="-17" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0055" x="2470" y="2631" width="380" height="491" frameX="0" frameY="-17" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0056" x="1045" y="2631" width="374" height="493" frameX="-6" frameY="-15" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0057" x="0" y="2631" width="367" height="496" frameX="-12" frameY="-12" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0058" x="2639" y="2018" width="366" height="501" frameX="-12" frameY="-7" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0059" x="2639" y="1012" width="365" height="503" frameX="-12" frameY="-5" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0060" x="2639" y="507" width="365" height="505" frameX="-12" frameY="-3" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0061" x="1478" y="1614" width="366" height="508" frameX="-12" frameY="0" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0062" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0063" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0064" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0065" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0066" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0067" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0068" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0069" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0070" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Idle froggin0071" x="2273" y="507" width="366" height="507" frameX="-12" frameY="-1" frameWidth="382" frameHeight="508" />
+<SubTexture name="Project F Left0000" x="1419" y="2631" width="336" height="493" frameX="0" frameY="-14" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0001" x="1755" y="2631" width="336" height="493" frameX="0" frameY="-14" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0002" x="707" y="2631" width="338" height="495" frameX="-3" frameY="-12" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0003" x="367" y="2631" width="340" height="496" frameX="-4" frameY="-11" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0004" x="3005" y="1500" width="342" height="498" frameX="-5" frameY="-9" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0005" x="3005" y="1998" width="344" height="498" frameX="-5" frameY="-9" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0006" x="3005" y="1001" width="345" height="499" frameX="-6" frameY="-8" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0007" x="3005" y="501" width="347" height="500" frameX="-7" frameY="-7" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0008" x="3005" y="501" width="347" height="500" frameX="-7" frameY="-7" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0009" x="3005" y="501" width="347" height="500" frameX="-7" frameY="-7" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0010" x="3005" y="501" width="347" height="500" frameX="-7" frameY="-7" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0011" x="3005" y="501" width="347" height="500" frameX="-7" frameY="-7" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0012" x="3005" y="501" width="347" height="500" frameX="-7" frameY="-7" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0013" x="3005" y="501" width="347" height="500" frameX="-7" frameY="-7" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0014" x="3005" y="501" width="347" height="500" frameX="-7" frameY="-7" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0015" x="3005" y="0" width="352" height="501" frameX="-10" frameY="-6" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0016" x="2639" y="1515" width="356" height="503" frameX="-15" frameY="-4" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0017" x="2201" y="2124" width="366" height="507" frameX="-17" frameY="0" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Left0018" x="2639" y="0" width="366" height="507" frameX="-17" frameY="0" frameWidth="383" frameHeight="507" />
+<SubTexture name="Project F Right0000" x="0" y="1102" width="385" height="512" frameX="-18" frameY="-2" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0001" x="385" y="1102" width="385" height="512" frameX="-18" frameY="-2" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0002" x="1514" y="0" width="382" height="514" frameX="-16" frameY="0" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0003" x="1514" y="514" width="381" height="513" frameX="-15" frameY="-1" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0004" x="770" y="1102" width="380" height="512" frameX="-14" frameY="-2" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0005" x="1150" y="1102" width="379" height="511" frameX="-13" frameY="-3" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0006" x="1896" y="0" width="377" height="511" frameX="-13" frameY="-3" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0007" x="1102" y="1614" width="376" height="509" frameX="-11" frameY="-5" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0008" x="1896" y="1022" width="376" height="510" frameX="-11" frameY="-4" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0009" x="1896" y="511" width="376" height="511" frameX="-11" frameY="-3" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0010" x="1896" y="511" width="376" height="511" frameX="-11" frameY="-3" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0011" x="1896" y="511" width="376" height="511" frameX="-11" frameY="-3" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0012" x="1896" y="511" width="376" height="511" frameX="-11" frameY="-3" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0013" x="1896" y="511" width="376" height="511" frameX="-11" frameY="-3" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0014" x="1896" y="511" width="376" height="511" frameX="-11" frameY="-3" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0015" x="0" y="1614" width="370" height="510" frameX="-8" frameY="-4" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0016" x="1529" y="1102" width="367" height="510" frameX="-4" frameY="-4" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F Right0017" x="1844" y="1614" width="365" height="508" frameX="0" frameY="-6" frameWidth="403" frameHeight="514" />
+<SubTexture name="Project F idle0000" x="384" y="0" width="379" height="559" frameX="-4" frameY="-5" frameWidth="384" frameHeight="565" />
+<SubTexture name="Project F Up0000" x="0" y="0" width="384" height="564" frameX="0" frameY="0" frameWidth="384" frameHeight="565" />
+<SubTexture name="Project F Up0001" x="763" y="0" width="378" height="547" frameX="-4" frameY="-18" frameWidth="384" frameHeight="565" />
+<SubTexture name="Project F Up0002" x="0" y="564" width="375" height="538" frameX="-5" frameY="-27" frameWidth="384" frameHeight="565" />
+<SubTexture name="Project F Up0003" x="375" y="564" width="375" height="531" frameX="-4" frameY="-34" frameWidth="384" frameHeight="565" />
+<SubTexture name="Project F Up0004" x="750" y="564" width="373" height="525" frameX="-4" frameY="-40" frameWidth="384" frameHeight="565" />
+<SubTexture name="Project F Up0005" x="1141" y="0" width="373" height="523" frameX="-4" frameY="-42" frameWidth="384" frameHeight="565" />
+<SubTexture name="Project F Up0006" x="1141" y="523" width="373" height="520" frameX="-4" frameY="-45" frameWidth="384" frameHeight="565" />
+<SubTexture name="Project F Up0007" x="1141" y="523" width="373" height="520" frameX="-4" frameY="-45" frameWidth="384" frameHeight="565" />
+<SubTexture name="Project F Up0008" x="1141" y="523" width="373" height="520" frameX="-4" frameY="-45" frameWidth="384" frameHeight="565" />
+</TextureAtlas>

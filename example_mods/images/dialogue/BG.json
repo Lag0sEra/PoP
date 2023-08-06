@@ -1,0 +1,102 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "gfPortraits",
+	"animations": [
+		{
+			"loop_name": "Gf speaking Angry",
+			"idle_offsets": [
+				-5,
+				-55
+			],
+			"idle_name": "Gf speaking Angry",
+			"anim": "Angry",
+			"loop_offsets": [
+				-5,
+				-55
+			]
+		},
+		{
+			"loop_name": "Gf speaking Happy",
+			"idle_offsets": [
+				0,
+				-55
+			],
+			"idle_name": "Gf speaking Happy",
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				-55
+			]
+		},
+		{
+			"loop_name": "Gf speaking Sad",
+			"idle_offsets": [
+				0,
+				-55
+			],
+			"idle_name": "Gf speaking Sad",
+			"anim": "Sad",
+			"loop_offsets": [
+				0,
+				-55
+			]
+		},
+		{
+			"loop_name": "Gf speaking Nervous",
+			"idle_offsets": [
+				0,
+				-57
+			],
+			"idle_name": "Gf speaking Nervous",
+			"anim": "Nervous",
+			"loop_offsets": [
+				0,
+				-57
+			]
+		},
+		{
+			"loop_name": "Gf speaking Excited",
+			"idle_offsets": [
+				0,
+				-55
+			],
+			"idle_name": "Gf speaking Excited",
+			"anim": "Excited",
+			"loop_offsets": [
+				0,
+				-55
+			]
+		},
+		{
+			"loop_name": "Gf speaking Spooked",
+			"idle_offsets": [
+				0,
+				-45
+			],
+			"idle_name": "Gf speaking Spooked",
+			"anim": "Spooked",
+			"loop_offsets": [
+				0,
+				-45
+			]
+		},
+		{
+			"loop_name": "Gf speaking Smug ass shit",
+			"idle_offsets": [
+				0,
+				-50
+			],
+			"idle_name": "Gf speaking Smug ass shit",
+			"anim": "Smug",
+			"loop_offsets": [
+				0,
+				-50
+			]
+		}
+	]
+}
